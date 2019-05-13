@@ -1,0 +1,17 @@
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\bin\Debug\WFAPersonelTakibi.exe.config
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\bin\Debug\WFAPersonelTakibi.exe
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\bin\Debug\WFAPersonelTakibi.pdb
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\bin\Debug\MetroFramework.Design.dll
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\bin\Debug\MetroFramework.dll
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.csprojAssemblyReference.cache
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Properties.Resources.resources
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.csproj.GenerateResource.cache
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.csproj.CoreCompileInputs.cache
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.csproj.CopyComplete
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.exe
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.pdb
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form1.resources
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form2.resources
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form3.resources
+C:\Users\murat\source\repos\WFAPersonelTakibi\WFAPersonelTakibi\obj\Debug\WFAPersonelTakibi.Form4.resources
